@@ -2,7 +2,7 @@ package com.shop.model.products.stationery;
 
 import com.shop.model.enums.PencilType;
 
- class Pencil extends Stationery {
+public class Pencil extends Stationery {
     private PencilType pencilType;
 
     public Pencil(String name, double price, int stock,
