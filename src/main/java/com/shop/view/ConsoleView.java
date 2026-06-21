@@ -1,4 +1,4 @@
-package main.java.com.shop.view;
+package com.shop.view;
 
 public class ConsoleView {
 }

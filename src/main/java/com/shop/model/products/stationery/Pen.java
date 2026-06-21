@@ -1,4 +1,4 @@
-package main.java.com.shop.model.products.stationery;
+package com.shop.model.products.stationery;
 
 public class Pen {
 }

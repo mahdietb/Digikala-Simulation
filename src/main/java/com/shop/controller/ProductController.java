@@ -1,4 +1,4 @@
-package main.java.com.shop.controller;
+package com.shop.controller;
 
 public class ProductController {
 }
