@@ -54,7 +54,7 @@ public class Main {
         Runtime.getRuntime().addShutdownHook(new Thread(() ->
                 persistenceService.saveState(userRepository, productRepository)));
 
-
+   
         boolean running = true;
         while (running) {
             view.showMainMenu();
